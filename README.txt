@@ -1,10 +1,12 @@
 Welcome to OOP Basic CMS
 
-This is a study in OOP programming with raw PHP and PHP syntax. It makes no effort to follow MVC or RESTful concepts. It is purely for educational purposes only.
+I created this to explain OOP programming and how to create a cms to my students in the classroom. This is a study in OOP programming with raw PHP and PHP syntax. It makes no effort to follow MVC or RESTful concepts. It however covers security concepts password encryption and SQL injection prevention. It also explains pagination, logIn/log out, user/admin authentication and basic CRUD.
+
+ It is purely for educational purposes only.
 
 You may enter your database info in initialize.php.
 
-Enclosed SQL file will create default admin user
+Enclosed SQL file will create default admin user. Some default pages/products will also be created.
 Username : test
 Password : password
 
