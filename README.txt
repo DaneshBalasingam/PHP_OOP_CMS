@@ -1,6 +1,6 @@
 Welcome to OOP Basic CMS
 
-I created this to explain OOP programming and how to create a cms to my students in the classroom. This is a study in OOP programming with raw PHP and PHP syntax. It makes no effort to follow MVC or RESTful concepts. It however covers security concepts password encryption and SQL injection prevention. It also explains pagination, logIn/log out, user/admin authentication and basic CRUD.
+I created this to explain OOP programming and how to create a cms to my students in the classroom. This is a study in OOP programming with raw PHP syntax as such no framework was used. It makes no effort to follow MVC or RESTful concepts. It however covers security concepts password encryption and SQL injection prevention. It also explains file uploads, pagination, logIn/log out, user/admin authentication and basic CRUD.
 
  It is purely for educational purposes only.
 
